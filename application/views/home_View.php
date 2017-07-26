@@ -4,6 +4,6 @@
 	<title>Đây là trang chủ</title>
 </head>
 <body>
-	Đây là trang <?php echo $key; ?>
+	Đây là Trang <?php echo $key; ?>
 </body>
 </html>
